@@ -18,16 +18,17 @@ end
 
 def multiplication(num1, num2)
   num1="4"
-  num2="30
+  num2="30"
   puts num1*num2
 end
 
 def modulo(num1, num2)
-  num1=5
-  num2=34
+  num1="5"
+  num2="34"
   puts num2/num1
 end
 
 def square_root(num)
-  puts math.sqrt(81)
+  num = "81"
+  puts math.sqrt(num)
 end
