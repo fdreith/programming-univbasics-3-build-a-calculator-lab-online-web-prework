@@ -1,4 +1,6 @@
-def addition(num1, num2)
+def addition
+  num1 = 5
+  num2 = 4
   puts num2+num1
 end
 
